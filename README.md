@@ -1,1 +1,1 @@
-# git-merge-practice
+Main branch: Updated project details.
